@@ -13,35 +13,35 @@ Godot
 
 ## 3D-mallinnus 
 
-Blender 
-Maya 
-Makehuman 
+Blender  
+Maya  
+Makehuman  
 3ds Max 
 
 ## 2D-grafiikka 
 
-Photoshop 
-Inkscape 
-GIMP 2 
-Krita 
+Photoshop  
+Inkscape  
+GIMP 2  
+Krita  
 Piskel 
 
 ## Ohjelmointi 
 
-Visual Studio 
+Visual Studio  
 VSCode 
 
 ## Musiikki ja äänieditointi
 
-Audacity 
-Audition 
-LMMS 
-sfxr.me 
+Audacity  
+Audition  
+LMMS  
+sfxr.me  
 
 ## Muut
 
-Microsoft Office 
-Kaikki Creative Cloudin ohjelmistot  
+Microsoft Office  
+Kaikki Creative Cloudin ohjelmistot   
 Kaikki ilmaiset/avoimen lähdekoodin ohjelmistot 
 
 # Käytännön ohjeita
